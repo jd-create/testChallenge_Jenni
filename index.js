@@ -6,3 +6,9 @@ function multiply(num1, num2) {
 
 const result = multiply(2, 3)
 
+module.exports = {
+    multiply: multiply,
+};
+
+
+
