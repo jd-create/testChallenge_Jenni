@@ -1,0 +1,15 @@
+{
+  "name": "testchallenge_jenni",
+  "version": "1.0.0",
+  "description": "challenge for studymate",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest",
+    "test:watch": "npx jest --watch"
+  },
+  "author": "Jennifer Demeijer-van Driel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
