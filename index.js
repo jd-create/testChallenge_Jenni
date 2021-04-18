@@ -1,10 +1,6 @@
-function multiply(num1, num2) {
-    const result = num1 * num2;
-
-    return result;
+function multiply() {
+    // WRITE ME!
 }
-
-const result = multiply(2, 3)
 
 module.exports = {
     multiply: multiply,
